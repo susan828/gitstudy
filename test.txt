@@ -1,0 +1,4 @@
+welcome
+hello java
+i must study hard
+add one line data
